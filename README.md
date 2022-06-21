@@ -1,2 +1,2 @@
 # landingpage
-Product landing page to attain Responsive Web Design Certification on Freecodecamp
+Sony products landing page to attain Responsive Web Design Certification on Freecodecamp
